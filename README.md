@@ -4,7 +4,7 @@
 Uma extensão que permite assistir todo conteúdo da Crunchyroll
 
 # Download
-Você pode encontrar a última versão disponível aqui:
+Puedes desargarlo aqui:
 [![Downloads](https://img.shields.io/github/downloads/mateus7g/crp-iframe-player/total.svg)](https://github.com/mateus7g/crp-iframe-player/releases/latest) 
 
 # Como instalar? (PC)
